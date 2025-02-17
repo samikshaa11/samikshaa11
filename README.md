@@ -75,12 +75,39 @@ I wield a diverse set of tools to create digital magic:
   </a>
 </p>
 
+<div align="center">
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
+<a>
+<img src=https://skillicons.dev/icons?i=python,java,javascript,pytorch,opencv,git />
+<img width="50" src="https://aayushsharma047.github.io/images/pandas_row1.png"/>
+<img width="50" src="https://aayushsharma047.github.io/images/numpy_row1.png"/>
+</a>
+</p>
+<p align="center">
+<a>
+<img src=https://skillicons.dev/icons?i=html,css,react,nodejs,django,docker,kubernetes />
+</a>
+</p>
+<p align="center">
+<a>
+<img src=https://skillicons.dev/icons?i=mysql,mongodb,linux,windows />
+<img width="50" src="https://aayushsharma047.github.io/images/access_row3.png"/>
+<img width="50" src="https://aayushsharma047.github.io/images/macos_row3.png"/>
+<img width="50" src="https://aayushsharma047.github.io/images/oracle_row3.png"/>
+</a>
 </p>
 
+<p align="center">
+<a>
+<img width="50" src="https://aayushsharma047.github.io/images/automation_row4.png"/>
+<img width="50" src="https://aayushsharma047.github.io/images/itil_row4.png"/>
+<img width="50" src="https://aayushsharma047.github.io/images/office_row4.png"/>
+<img width="50" src="https://aayushsharma047.github.io/images/powerautomate_row4.png"/>
+<img width="50" src="https://aayushsharma047.github.io/images/servicenow_row4.png"/>
+<img width="50" src="https://aayushsharma047.github.io/images/uipath_row4.png"/>
+</a>
+</p>
+</div>
 
 ### 🪢 Let's Connect!
 
