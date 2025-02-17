@@ -54,27 +54,6 @@ I’m always eager to expand my knowledge, learn new technologies, and enhance m
 
 I wield a diverse set of tools to create digital magic:
 
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,javascript,pytorch,opencv,git" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,django,docker,kubernetes" />
-
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,linux,windows" />
-
-  </a>
-</p>
-
 <div align="center">
 <p align="center">
 <a>
